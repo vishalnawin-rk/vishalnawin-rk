@@ -26,6 +26,7 @@
     
 ⚡ Fun fact:    
 
-    🧠 I love solving complex problems and turning them into elegant solutions. In my free time, I enjoy designing unique graphics and exploring new mathematical theories.
+    🧠 I love solving complex problems and turning them into elegant solutions. 
+    🎨 I enjoy designing unique graphics and exploring new mathematical theories.
     
 <!--- vishalnawin-rk/vishalnawin-rk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
