@@ -2,8 +2,8 @@
 
 👀 I’m interested in:
 
-    💡 Building innovative software solutions                                                              
-    🚀 Exploring new technologies and frameworks                                                        
+    💡 Building innovative software solutions                                                      
+    🚀 Exploring new technologies and framework                                                   
     🧩 Enhancing my problem-solving and coding skills
     
 🌱 I’m currently learning:
