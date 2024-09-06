@@ -58,7 +58,10 @@ Software Engineer-in-works
 
 ### ✍️ Today Dev Quote
  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
- 
+
+<h2 align="center"> </h2>
+<p align="left">
+   
 ### ⚙️ Leetcode Stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/vishalnawinrk?theme=dark&ext=heatmap)
 
