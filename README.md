@@ -53,7 +53,7 @@ Software Engineer-in-works
 <img alt="Static Badge" src="https://img.shields.io/badge/Asus-Rog_Strix-ED1C24%3Flogo%3DColor%3Dwhite?style=for-the-badge&logo=Asus&logoColor=white&color=%23f00000"> <img alt="Static Badge" src="https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
  <img alt="Static Badge" src="https://img.shields.io/badge/AMD-Ryzen_7_4800H-ED1C24?style=for-the-badge&logo=amd&logoColor=white&color=%23f00000">
 
-### ✍️ Random Dev Quote
+### ✍️ Today Dev Quote
  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
  
 ### ⚙️ Leetcode Stats:
