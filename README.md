@@ -66,9 +66,15 @@ Software Engineer-in-works
 ![Leetcode Stats](https://leetcard.jacoblin.cool/vishalnawinrk?theme=dark&ext=heatmap)
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vishalnawin-rk&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalnawin-rk&layout=compact&hide_border=true&bg_color=000000&title_color=f1a600&text_color=ffffff)
-[![](https://github-readme-activity-graph.vercel.app/graph?username=vishalnawin-rk&bg_color=000000&color=ffffff&line=ffea00&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div>
+  <div style="display: flex;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vishalnawin-rk&layout=compact&theme=vision-friendly-dark&hide_border=false" alt="vishalnawin-rk"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vishalnawin-rk&layout=compact&hide_border=true&bg_color=000000&title_color=f1a600&text_color=ffffff&count_private=true" alt="Top Languages"/>
+  </div>
+  <div>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalnawin-rk&bg_color=000000&color=ffffff&line=ffea00&point=ff0000&area=true&hide_border=true" alt="Activity Graph" />
+  </div>
+</div>
 
 
 
