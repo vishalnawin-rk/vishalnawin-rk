@@ -10,7 +10,7 @@ Software Engineer-in-works
 - 📫 How to reach me :
 <br /> [<img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/vishalnawinrk/) [<img width="48" height="48" src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" alt="twitterx--v1"/>](https://x.com/vishalnawinrk/) [<img width="50" height="50" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>](https://www.instagram.com/__j.a.x.t.o.n__/)
 - ⚡ Fun fact: I love Maths.
-
+<br>
 <p align="center">
    Visitor count<br>
   <img src="https://profile-counter.glitch.me/vishalnawin-rk/count.svg" />
