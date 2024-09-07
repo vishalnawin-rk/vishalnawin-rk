@@ -67,8 +67,9 @@ Software Engineer-in-works
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vishalnawin-rk&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalnawin-rk&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalnawin-rk&layout=compact&hide_border=true&bg_color=000000&title_color=f1a600&text_color=ffffff)
 [![](https://github-readme-activity-graph.vercel.app/graph?username=vishalnawin-rk&bg_color=000000&color=ffffff&line=ffea00&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
