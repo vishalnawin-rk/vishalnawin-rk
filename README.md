@@ -9,7 +9,6 @@ Software Engineer-in-works
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 <br /> [<img width="50" height="50" src="https://img.icons8.com/3d-fluency/94/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/vishalnawinrk/) [<img width="48" height="48" src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" alt="twitterx--v1"/>](https://x.com/vishalnawinrk/) [<img width="50" height="50" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>](https://www.instagram.com/__j.a.x.t.o.n__/)
-- 😄 Pronouns: Techie
 - ⚡ Fun fact: I love Maths.
 
 <p align="center"> 
@@ -46,6 +45,7 @@ Software Engineer-in-works
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/photoshop/photoshop-plain.svg" width="50" />
   <img src="https://img.icons8.com/fluency/48/canva.png" width="50" />
   <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img height="50" src="https://img.shields.io/badge/Proteus-1c79b3?style=for-the-badge&logo=proteus&logoColor=white"/>
   
 </div>
 
