@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Vishalnawin
 
 Software Engineer-in-works
-<img align="right" width="370" height="290" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240905%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240905T163617Z&X-Amz-Expires=300&X-Amz-Signature=5f7d0c7aaf63f95239bb0cd2b283ad2bbd5bb823dc38637c3641988d627584e0&X-Amz-SignedHeaders=host&actor_id=180089568&key_id=0&repo_id=588181932">
+<img align="right" width="370" height="290" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif">
 - 🔭 Here's my [portfolio](https://vishalnawinrk.netlify.app/)                                                 
 - 🌱 I’m currently learning Advanced Java, JS
 - 👯 I’m looking to collaborate on Java, Full-Stack, IoT
