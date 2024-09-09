@@ -8,7 +8,7 @@ Software Engineer-in-works
 - 🤔 I’m looking for help with Placements in Product Companies
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img width="50" height="50" src="https://img.icons8.com/quill/100/linkedin.png"/>](https://www.linkedin.com/in/vishalnawinrk/)
+<br /> [<img width="50" height="50" src="https://img.icons8.com/avantgarde/100/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/vishalnawinrk/)
  [<img width="50" height="50" src="https://img.icons8.com/papercut/120/twitter.png" alt="twitter" alt="twitterx--v1/" alt="twitterx--v1"/>](https://x.com/vishalnawinrk/)
 [<img width="50" height="50" src="https://img.icons8.com/papercut/120/instagram-new.png" alt="instagram-new"/>](https://www.instagram.com/__j.a.x.t.o.n__/)
 
@@ -32,7 +32,7 @@ Software Engineer-in-works
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" width="50" title="HTML5" alt="HTML5" />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" width="50" title="CSS3" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" title="MySQL" alt="MySQL" />
-  <img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" height="50" width="50" title="Lc" alt="LC" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png" height="48" width="48" title="Leetcode" alt="Leetcode" />
 </div>
 
  
