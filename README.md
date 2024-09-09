@@ -44,7 +44,7 @@ Software Engineer-in-works
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="50" />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" width="50" />
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" width="50" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" width="50" title="Github" alt="Github" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="50"  />
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/canva/canva-original.svg" width="50" />
   <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
