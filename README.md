@@ -72,7 +72,7 @@ Software Engineer-in-works
 <div>
   <div style="display: flex;">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vishalnawin-rk&layout=compact&theme=vision-friendly-dark&hide_border=false" alt="vishalnawin-rk"/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vishalnawin-rk&layout=compact&hide_border=true&bg_color=000000&title_color=f1a600&text_color=ffffff&count_private=true" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalnawin-rk&layout=compact&hide_border=true&bg_color=000000&title_color=f1a600&text_color=ffffff&count_private=true" alt="Top Languages"/>
   </div>
   <div>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalnawin-rk&bg_color=000000&color=ffffff&line=ffea00&point=ff0000&area=true&hide_border=true" alt="Activity Graph" />
